@@ -50,3 +50,14 @@ footer {
   padding: 10px;
   text-align: center;
 }
+a {
+  width: 25%;
+  font-size:x-large;
+}
+nav {
+  position: relative;;
+}
+#ff {
+  margin: 15px;
+  padding: 5px;
+}
